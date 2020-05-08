@@ -11,11 +11,14 @@ player_name =  input("your name? >")
 print("Your name is {}. You are an {}.".format(player_name, "insignificant human"))
 print("I am Lambda, tasked to remove you from this place. To do this, I need you to solve a series of puzzles.")
 
-class question:
-  question = ""
-  def __init__(self, question):
-    self.question = question
+class oneStepD:
+  dialogue = ""
+  def __init__(self, dialogue):
+    de = ""
+    self.dialogue = dialogue
+    input(de)
 
 
-question = question("test")
-print(question.question)
+
+test = oneStepD("test")
+print(test.dialogue)
