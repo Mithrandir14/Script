@@ -6,3 +6,4 @@ Prerequisites:
 1. Know how to read (duh)
 2. At least 7th Grade math
 Please document your changes.
+[![Run on Repl.it](https://repl.it/badge/github/Mithrandir14/TXT-Game-Python)](https://repl.it/github/Mithrandir14/TXT-Game-Python)
