@@ -5,7 +5,6 @@ Coded by HandsomeSB and Mithrandir14
 Prerequisites:
 1. Know how to read (duh)
 2. At least 7th Grade math
-
 Please document your changes.
 [![Run on Repl.it](https://repl.it/badge/github/Mithrandir14/TXT-Game-Python)](https://repl.it/github/Mithrandir14/TXT-Game-Python)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
